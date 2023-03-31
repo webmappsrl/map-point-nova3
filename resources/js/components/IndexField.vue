@@ -1,5 +1,5 @@
 <template>
-    <wm-map class="index-view" :field="field" :edit=false></wm-map>
+    <wm-map1 class="index-view" :field="field" :edit=false></wm-map1>
 </template>
 <script>
 export default {

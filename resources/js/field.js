@@ -12,7 +12,7 @@ Nova.booting((Vue, router, store) => {
     require('./components/FormField').default
   )
   Vue.component(
-    'wm-map',
+    'wm-map1',
     require('./components/mapComponent').default
   )
 })

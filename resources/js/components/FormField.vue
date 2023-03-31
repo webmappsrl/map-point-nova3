@@ -2,7 +2,7 @@
 <template>
   <default-field :field="field">
     <template #field>
-      <wm-map :field="field" :edit=true @latlng="updateForm" :attribution="attribution"></wm-map>
+      <wm-map1 :field="field" :edit=true @latlng="updateForm" :attribution="attribution"></wm-map1>
     </template>
   </default-field>
 </template>
